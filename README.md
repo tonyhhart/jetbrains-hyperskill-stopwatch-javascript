@@ -1,21 +1,26 @@
-# Minesweeper with React
+# Simple Stopwatch (JavaScript)
 
-[Link](https://hyperskill.org/projects/108)
+[Link](https://hyperskill.org/projects/183)
 
-Minesweeper is an oldschool game that dates back to the earliest mainframe games of the 1960s and 1970s. The player is presented with a field of cells, some of which contain hidden mines. You can open any of the closed cells and find out how many mines are around it, or stumble upon a mine right there and lose. Your goal is to open all the empty cells and flag all the cells with mines.
+The Simple Stopwatch project is a web application that allows users to time events with precision, offering features like start, stop, reset, and lap time recording. The interface displays elapsed time prominently and provides buttons for easy control. With this project, users can track multiple laps, making it ideal for fitness routines, sports events, or any timing needs.
 
 ## What you'll learn
 
-This project covers the core topics of the Introduction to React course, making it sufficiently challenging to be a proud addition to your portfolio.
-
-What you'll learn
-Once you choose a project, we'll provide you with a study plan that includes all the necessary topics from your course to get it built. Here’s what awaits you:
-Explore the structure of the React project and create a loading page.
+Once you choose this project, a study plan will be provided that includes all the necessary topics from your course to get it built. Here’s what awaits you:
 
 ### Add the HTML Elements to Set the Structure of the Application
+
+- HTML page structure
+- Intro to HTML forms
+- HTML attributes id and class
+- Inline elements
+- What is CSS
+- Introduction to UI/UX
+- Interface elements
+- Buttons
+
 ### Stage Implementation
 
-1. Implement all components and add CSS to style your game.
-2. There are four types of cells: closed, opened, flagged and mined; get them on the field!
-3. Improve the cell opening, add the timer, and display the number of flagged mines in the flag counter.
-4. Take care of the end of the game: make the reset button, show all mines if the player loses, and add other additional functions.
+1. Add the start and stop functionalities of the stopwatch.
+2. Add the reset and lap functionalities of the stopwatch.
+3. Optionally, style the application with your creativity.
